@@ -1,1 +1,1 @@
-// pages/about.js placeholder content
+// about.js placeholder content

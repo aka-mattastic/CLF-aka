@@ -1,1 +1,1 @@
-// pages/index.js placeholder content
+// index.js placeholder content

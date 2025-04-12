@@ -1,1 +1,1 @@
-// pages/contact.js placeholder content
+// contact.js placeholder content
