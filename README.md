@@ -1,2 +1,1 @@
-# CLF-aka
-CLF-aka
+// README.md placeholder content
